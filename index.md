@@ -13,9 +13,8 @@
 * [How to Connect Linux shell from Windows?](https://www.youtube.com/watch?v=0lU_lH57T1s){:target="_blank"}
   
 
-* Before Starting the Shell scripting kindly complete the Linux Classroom sessions from _**Session 01**_ to _**Session 23**_
+* Before Starting the Shell scripting and Regex tutorials, kindly complete the _[Linux Classroom sessions by Khaja](https://www.youtube.com/watch?v=1oMBgXsMtCk&list=PLuVH8Jaq3mLtx82QrxoUre38AqJQwQ3bs&pp=iAQB){:target="_blank"}_ from _**Session 01**_ to _**Session 23**_
 
-* [Refer Here](https://www.youtube.com/watch?v=1oMBgXsMtCk&list=PLuVH8Jaq3mLtx82QrxoUre38AqJQwQ3bs&pp=iAQB){:target="_blank"} for the Classroom Sessions till 23
 
 > [ShellScript_Class-1](https://www.youtube.com/watch?v=3U7zH27lQ5s){:target="_blank"} _**Session 24**_
 
