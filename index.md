@@ -4,7 +4,7 @@
 
 _**Disclaimer:** The Author and the Publisher of this article hereby suggest that you first focus on the videos and then  do the self-practice. Use Notes for your references while practicing & not the videos. Self-practice only after finished watching the videos; do not try both at the same time (Recommended)_
 
-### Prerequisites
+### Prerequisites:
 
 * [What is Linux Operating System?](https://www.youtube.com/watch?v=7rfbFpV-r6k){:target="_blank"}
 
@@ -15,8 +15,8 @@ _**Disclaimer:** The Author and the Publisher of this article hereby suggest tha
 
 * Before Starting the Shell scripting and Regex tutorials, kindly complete the _[Linux Classroom sessions by Khaja](https://www.youtube.com/watch?v=1oMBgXsMtCk&list=PLuVH8Jaq3mLtx82QrxoUre38AqJQwQ3bs&pp=iAQB){:target="_blank"}_ from _**Session 01**_ to _**Session 23**_
 
-### ShellScripting Lectures -
----------------------------
+### ShellScripting Lectures:
+
 > [ShellScript Class-1](https://www.youtube.com/watch?v=3U7zH27lQ5s){:target="_blank"} _**Session 24**_
 
 * [Class-1 Notes _(Unfortunately No Notes available for Class-1)!_]()
