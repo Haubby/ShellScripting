@@ -89,7 +89,7 @@ _[Linux Foundation Notes](https://directdevops.blog/foundation-series/linux-foun
 _[Scripting Sessions](https://directdevops.blog/scripting-sessions/){:target="_blank"}_
 
 
-<p style="text-align: right"><img src="./newbash.png"></p>
+<p style="text-align: right"><img src="./bash.png"></p>
 
 <!-- ![Preview](bash.png)
 
