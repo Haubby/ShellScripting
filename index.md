@@ -1,6 +1,6 @@
 
-## This Article developed for learning purpose
------------------------------------------------
+## This Article is hosted specifically for Shell Scripting
+----------------------------------------------------------
 
 _**Disclaimer:** The Author and the Publisher of this article hereby suggest that you first focus on the videos and then  do the self-practice. Use Notes for your references while practicing & not the videos. Self-practice only after finished watching the videos; do not try both at the same time (Recommended)_
 
