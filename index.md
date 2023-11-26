@@ -85,6 +85,9 @@
 
 _[Linux Foundation Notes](https://directdevops.blog/foundation-series/linux-foundation-series/){:target="_blank"}_
 
-![Preview](script_code.gif)
+![Preview](newbash.png)
 
 ![Preview](bash.png)
+
+<!-- ![Preview](script_code.gif) -->
+
