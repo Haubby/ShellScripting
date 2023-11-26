@@ -2,7 +2,7 @@
 ## This Article developed for learning purpose
 -----------------------------------------------
 
-_**Disclaimer:** The Author and the Publisher of this article hereby suggest that you first focus on the videos and then  do the self-practice. Use Notes for your references while practicing & not the videos. Self-practice only after finished watching the videos; Do not try both at the same time *(Recommended)*_
+_**Disclaimer:** The Author and the Publisher of this article hereby suggest that you first focus on the videos and then  do the self-practice. Use Notes for your references while practicing & not the videos. Self-practice only after finished watching the videos; do not try both at the same time (Recommended)_
 
 ### Prerequisites
 
