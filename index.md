@@ -86,6 +86,8 @@ _**Disclaimer:** The Author and the Publisher of this article hereby suggest tha
 
 _[Linux Foundation Notes](https://directdevops.blog/foundation-series/linux-foundation-series/){:target="_blank"}_
 
+_[Scripting Sessions](https://directdevops.blog/scripting-sessions/){:target="_blank"}_
+
 ![Preview](newbash.png)
 
 <!-- ![Preview](bash.png)
