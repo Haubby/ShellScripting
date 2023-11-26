@@ -87,7 +87,7 @@ _[Linux Foundation Notes](https://directdevops.blog/foundation-series/linux-foun
 
 ![Preview](newbash.png)
 
-![Preview](bash.png)
+<!-- ![Preview](bash.png)
 
-<!-- ![Preview](script_code.gif) -->
+![Preview](script_code.gif) -->
 
