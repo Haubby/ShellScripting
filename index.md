@@ -19,7 +19,7 @@ _**Disclaimer:** The Author and the Publisher of this article hereby suggest tha
 ---------------------------
 > [ShellScript Class-1](https://www.youtube.com/watch?v=3U7zH27lQ5s){:target="_blank"} _**Session 24**_
 
-* [Class-1 Notes](No Notes available)!
+* [Class-1 Notes _(Unfortunately No Notes available for Class-1)!_]()
 
 > [ShellScript Class-2](https://www.youtube.com/watch?v=uSfbVmvhzcQ){:target="_blank"} _**Session 25**_
 
