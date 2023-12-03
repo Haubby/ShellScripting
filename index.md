@@ -19,7 +19,7 @@ _**Disclaimer:** The Author and the Publisher of this article hereby suggest tha
 
 > [ShellScript Class-1](https://www.youtube.com/watch?v=3U7zH27lQ5s){:target="_blank"} _**Session 24**_
 
-* [Class-1 Notes _(Unfortunately No Notes available for Class-1)!_]()
+* [Class-1 Notes](https://directdevops.blog/2020/08/14/linux-classroom-series-13-aug-2020/){:target="_blank"}
 
 > [ShellScript Class-2](https://www.youtube.com/watch?v=uSfbVmvhzcQ){:target="_blank"} _**Session 25**_
 
